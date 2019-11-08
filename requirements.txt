@@ -28,7 +28,7 @@ multidict==2.1.4
 nbconvert==5.1.1
 nbformat==4.3.0
 networkx==1.11
-notebook==4.4.1
+notebook==5.7.8
 numpy==1.11.2
 pandocfilters==1.4.1
 pickleshare==0.7.4
